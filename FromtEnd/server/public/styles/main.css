@@ -1,0 +1,87 @@
+h1 {
+  font-family: 'Open Sans', sans-serif;
+  padding-top: 150px;
+  text-align: center;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+h2 {
+  font-family: 'Open Sans', sans-serif;
+  padding-top: 150px;
+  text-align: center;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.container {
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.button {
+  margin: auto;
+  width: 260px;
+  height: 80px;
+  font-size: 20px;
+}
+
+.mainImage {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 550px;
+  height: 450px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+label {
+  width:180px;
+  margin: auto;
+}
+
+input {
+  width:180px;
+  margin: auto;
+  background-color: rgb(194, 194, 194);
+  border: 0px white;
+}
+
+.homebutton {
+  margin-top: 50px;
+  width: 150px;
+  height: 50px;
+  font-size: 15px;
+}
+
+.username {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.userage, .userbio, .useremail {
+  font-weight: bold;
+}
+
+.useremailadd {
+  text-decoration: underline;
+}
+
+.others {
+  border:1px solid rgb(194, 194, 194);
+  margin: 15px;
+  padding: 15px;
+  border-radius: 5px;
+}
+
+.userphoto {
+width: 200px;
+height: 200px;
+margin-left: auto;
+margin-right: auto;
+display: block;
+padding-top: 20px;
+padding-bottom: 20px;
+
+}
